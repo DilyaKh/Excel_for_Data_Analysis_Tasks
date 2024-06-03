@@ -6,7 +6,7 @@ Attribute VB_Name = "Select_and_Fill"
 Sub Fill_yellow_from_selected_cell_to_last_non_empty_cell_in_column()
 Attribute Fill_yellow_from_selected_cell_to_last_non_empty_cell_in_column.VB_Description = "Выделяет столбец желтым цветом от выделенной ячейки до последней заполненной ячейки в столбце"
 Attribute Fill_yellow_from_selected_cell_to_last_non_empty_cell_in_column.VB_ProcData.VB_Invoke_Func = " \n14"
-' Выделяет столбец желтым цветом от выделенной ячейки
+' Выделяет столбец желтым цветом от выделенной ячейки 
 ' до последней заполненной ячейки в столбце
 
     ' Выделение требуемого диапазона:

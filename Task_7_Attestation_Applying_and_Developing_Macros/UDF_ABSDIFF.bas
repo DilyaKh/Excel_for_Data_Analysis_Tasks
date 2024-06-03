@@ -2,7 +2,7 @@ Attribute VB_Name = "UDF_ABSDIFF"
 Function ABSDIFF(arg1 As Variant, arg2 As Variant) As Variant
 Attribute ABSDIFF.VB_Description = "Возвращает модуль разности двух аргументов"
 Attribute ABSDIFF.VB_ProcData.VB_Invoke_Func = " \n14"
-' Данная пользовательская функция вычисляет
+' Данная пользовательская функция вычисляет 
 ' модуль разницы двух аргументов.
 
 ' Args: принимает на вход два аргумента (тип может быть любым).
